@@ -81,7 +81,7 @@ These experiments build foundational understanding of digital logic, RTL design,
 ## 👥 Team Members
 | Name | Role | LinkedIn | GitHub |
 |------|------|----------|--------|
-| Member 1 | RTL Design & Modeling | [LinkedIn](#) | [GitHub](#) |
+| Member 1 | RTL Design & Modeling | [LinkedIn](http://www.linkedin.com/in/jenlin-anne-flora-8381252a3) | [GitHub](https://github.com/Jenlin549) |
 | Member 2 | Verification & Simulation | [LinkedIn](#) | [GitHub](#) |
 | Member 3 | Synthesis & Timing | [LinkedIn](#) | [GitHub](#) |
 | Member 4 | FPGA & Prototyping | [LinkedIn](#) | [GitHub](#) |
