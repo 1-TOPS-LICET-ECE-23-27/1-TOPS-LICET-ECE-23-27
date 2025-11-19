@@ -1,6 +1,6 @@
 # 🌟 VLSI Learning & Tapeout Journey – LICET ECE (3rd Year)
 ### *An initiative by 8 enthusiastic students to bridge the industry–academia gap*
-
+![Demo](RISC V.gif)
 <p align="center">
   <img src="RISC V.jpg" alt="VLSI Experience Banner" width="600">
 </p>
