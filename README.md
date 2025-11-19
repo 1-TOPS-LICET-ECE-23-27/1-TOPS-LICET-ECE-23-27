@@ -87,7 +87,7 @@ These experiments build foundational understanding of digital logic, RTL design,
 | Member 4 | FPGA & Prototyping | [LinkedIn](#) | [GitHub](#) |
 | Member 5 | Physical Design (PD) | [LinkedIn](#) | [GitHub](#) |
 | Member 6 | OpenLane & Research | [LinkedIn](#) | [GitHub](#) |
-| Member 7 | Documentation & Workflow | [LinkedIn](#) | [GitHub](#) |
+| Member 7 | Documentation & Workflow | [LinkedIn](https://www.linkedin.com/in/tabitha-v-949657290/) | [GitHub](#) |
 | Member 8 | Collaboration Lead | [LinkedIn](#) | [GitHub](#) |
 
 > Replace the `#` with actual profile links.
